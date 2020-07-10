@@ -17,3 +17,8 @@ const kMessageContainerDecoration = BoxDecoration(
     top: BorderSide(color: Colors.lightBlueAccent, width: 2.0),
   ),
 );
+
+const WELCOME_SCREEN = 'welcome_screen';
+const LOGIN_SCREEN = 'login_screen';
+const REGISTRATION_SCREEN = 'registration_screen';
+const CHAT_SCREEN = 'chat_screen';
