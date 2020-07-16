@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303559414413",
+    "firebase_url": "https://flash-chat-5d68d.firebaseio.com",
+    "project_id": "flash-chat-5d68d",
+    "storage_bucket": "flash-chat-5d68d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303559414413:android:cf93a3e379aac193ca48c4",
+        "android_client_info": {
+          "package_name": "com.olecha.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303559414413-19f201brlqin0ntoorgaf0nng5k3m8jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSiYKO3Fcjh_X3AHQlekehSHLThboVq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303559414413-19f201brlqin0ntoorgaf0nng5k3m8jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
